@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Maharsh</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | 🤖 Machine Learning Enthusiast | 💻 Open Source Contributor</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a dedicated Full Stack Developer with a keen interest in leveraging the power of machine learning to build innovative solutions. With a solid foundation in both front-end and back-end development, I thrive on creating seamless user experiences and scalable applications.
+
+</h3>
 <img align="right" alt="Coding" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo" height ="300" width="300"/>
 
 
