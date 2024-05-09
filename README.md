@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **SAAS Automation Builder**
 
-- 🌱 I’m currently learning **DialoGPT, Nextjs 14**
+- 🌱 I’m currently learning **DialoGPT, Rust**
 
 - 👯 I’m looking to collaborate on **Machine Learning and React**
 
