@@ -1,4 +1,16 @@
+<style>
+.flex-container {
+  display: flex;
+  background-color: DodgerBlue;
+}
 
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+</style>
 <h1 align="center">Hi 👋, I'm Maharsh</h1>
 <h3 align="center">🚀 Passionate Full Stack Developer | 🤖 Machine Learning Enthusiast | 💻 Open Source Contributor</h3>
 <img align="right" alt="Coding" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo" height ="300" width="300"/>
